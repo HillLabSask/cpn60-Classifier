@@ -1,5 +1,7 @@
 # cpn60-Classifier
 
+The “universal target” region of the gene encoding the 60 kDa chaperonin protein (cpn60, also known as groEL or hsp60) is a proven sequence barcode for bacteria and a useful target for marker gene amplicon based studies of complex microbial communities. To date, identification of cpn60 sequence variants from microbiome studies has been accomplished by alignment of queries to a reference database. Naïve Bayesian classifiers including the RDP classifier offer an alternative identification method that provides variable rank classification and shorter analysis times. 
+
 This repository contains training sets that can be used with the Ribosomal Database Project classifier (Wang et al., 2007) or the QIIME2 q2-feature-classifier plugin (https://github.com/qiime2/q2-feature-classifier) to taxonomically assign chaperonin 60 (cpn60) sequences. 
 
 # Citation
