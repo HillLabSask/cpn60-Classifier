@@ -7,6 +7,6 @@ This repository contains training sets that can be used with the Ribosomal Datab
 Ren, Q. and Hill, J.E. 2023. Rapid and accurate taxonomic classification of cpn60 amplicon sequence variants. BioRxiv
 
 # Versions
-The classifier used in initial performance testing is **v10.1**, which contains a non-redundant set of 11,001 cpn60 barcode sequences retrieved from https://www.cpndb.ca
+The classifier used in initial performance testing is **v10.1**, which contains a non-redundant set of 11,001 cpn60 barcode sequences retrieved from https://www.cpndb.ca and used to train the RDP Classifier.
 
-**v11.1** includes 16,413 cpn60 reference sequences that have undergone additional curation. In this latest release, we provide a trained RDP Classifier and a QIIME2 artifact for use with the q2-feature-classifier plugin (Bokulich NA, Kaehler BD, Rideout JR, et al. Optimizing taxonomic classification of marker-gene amplicon sequences with QIIME 2’s q2-feature-classifier plugin. Microbiome. 2018;6:90). 
+**v11.1** includes 16,413 cpn60 reference sequences that have undergone additional curation. In this latest release, we provide a trained RDP Classifier and a QIIME2 artifact for use with the q2-feature-classifier plugin (Bokulich NA, Kaehler BD, Rideout JR, et al. Optimizing taxonomic classification of marker-gene amplicon sequences with QIIME 2’s q2-feature-classifier plugin. Microbiome. 2018;6:90). Input taxonomy tables and sequence files are also provided for those who want to do the training themselves.
