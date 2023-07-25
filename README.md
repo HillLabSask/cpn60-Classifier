@@ -6,7 +6,7 @@ This repository contains training sets that can be used with the Ribosomal Datab
 
 # Citation
 
-Ren, Q. and Hill, J.E. 2023. Rapid and accurate taxonomic classification of cpn60 amplicon sequence variants. BioRxiv: https://doi.org/10.1101/2023.01.29.526108
+Ren, Q. and Hill, J.E. 2023. Rapid and accurate taxonomic classification of cpn60 amplicon sequence variants. ISME Communications 3:77 https://doi.org/10.1038/s43705-023-00283-z
 
 # Releases
 The classifier used in initial performance testing is **v10.1**, which contains a non-redundant set of 11,001 cpn60 barcode sequences retrieved from https://www.cpndb.ca and used to train the RDP Classifier.
